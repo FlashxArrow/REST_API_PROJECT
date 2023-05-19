@@ -11,7 +11,7 @@ a pattern and get the experience to understand much quicker how to establish a c
   
   2.Covid-19 Stats for different countries (medium difficulty to implement)
   
-  3.Game Database Search 
+  3.Game Database Search (hard difficulty to implement)
   
   I used RapidAPI site(https://rapidapi.com) because it automatically generates the "key"(token) and the "host"(client) that every user needs to have in order to use any
   API.
